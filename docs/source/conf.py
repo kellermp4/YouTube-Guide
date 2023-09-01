@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Keller.mp4's YouTube Guide'
+copyright = '2023, Keller.mp4'
+author = 'Keller.mp4'
 
 release = '0.1'
 version = '0.1.0'
