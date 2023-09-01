@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Keller.mp4's YouTube Guide'
+project = 'YouTube Guide'
 copyright = '2023, Keller.mp4'
 author = 'Keller.mp4'
 
